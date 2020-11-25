@@ -1,2 +1,2 @@
-Download rar.file
-Start .exe file
+Download .rar file.
+Start .exe file.
